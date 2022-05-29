@@ -20,8 +20,8 @@
 
 > 게임 프로젝트 링크
 
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/file/d/1FoVpBTYur1BFLEx401GsGT0pqABMx-wN/view?usp=sharing
 
 > 게임 링크
 
-https://drive.google.com/drive/u/1/my-drive
+https://drive.google.com/file/d/1ONlQ3_cCfXwR9GtCcR8dOUQOHSASn8ti/view?usp=sharing
