@@ -18,6 +18,10 @@
 앞서 재밌게 플레이한 "워킹데드" 프로젝트를 그대로 만들어보자는 계획울 시작으로
 유니티 프로그래밍을 공부하기 위해 시작하였다.
 
+> 게임 프로젝트 링크
+
+https://drive.google.com/drive/u/0/my-drive
+
 > 게임 링크
 
 https://drive.google.com/drive/u/1/my-drive
