@@ -18,13 +18,11 @@
 앞서 재밌게 플레이한 "워킹데드" 프로젝트를 그대로 만들어보자는 계획울 시작으로
 유니티 프로그래밍을 공부하기 위해 시작하였다.
 
-> 게임 프로젝트 링크
+> 다운로드
 
-[프로젝트 다운로드](https://drive.google.com/file/d/1FoVpBTYur1BFLEx401GsGT0pqABMx-wN/view?usp=sharing)
+  *  [프로젝트 다운로드](https://drive.google.com/file/d/1FoVpBTYur1BFLEx401GsGT0pqABMx-wN/view?usp=sharing)
 
-> 게임 링크
-
-[게임 다운로드](https://drive.google.com/file/d/1ONlQ3_cCfXwR9GtCcR8dOUQOHSASn8ti/view?usp=sharing)
+  *  [게임 다운로드](https://drive.google.com/file/d/1ONlQ3_cCfXwR9GtCcR8dOUQOHSASn8ti/view?usp=sharing)
 
 > 게임 사진
 
