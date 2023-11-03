@@ -24,7 +24,7 @@
 
   *  [게임 다운로드](https://drive.google.com/file/d/1ONlQ3_cCfXwR9GtCcR8dOUQOHSASn8ti/view?usp=sharing)
     
-  *  [게임 플레이영상]([https://youtu.be/rwT4dUcQJgI?si=pG94J4B3PIg76Ga4](https://youtu.be/rwT4dUcQJgI?si=pG94J4B3PIg76Ga4))
+  *  [게임 플레이영상](https://youtu.be/rwT4dUcQJgI?si=pG94J4B3PIg76Ga4)
 
 
 > 게임 사진
